@@ -1,5 +1,5 @@
-name: sense_model
+name: qe_model
 version: 0.0.1
-description: A simple console application.
+description: Qlin Engine API model.
 dev_dependencies:
   dogma_json_schema: any
