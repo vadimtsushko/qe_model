@@ -6,9 +6,13 @@ library qe_model.models;
 // Exports
 //---------------------------------------------------------------------
 
-export 'src/models/generic_dimension_properties.dart';
+export 'src/models/doc_list_entry.dart';
+export 'src/models/nx_generic_dimension_properties.dart';
+export 'src/models/nx_generic_measure_properties.dart';
 export 'src/models/nx_info.dart';
 export 'src/models/nx_library_dimension_def.dart';
+export 'src/models/nx_library_measure_def.dart';
+export 'src/models/nx_meta.dart';
 
 //---------------------------------------------------------------------
 // Library contents

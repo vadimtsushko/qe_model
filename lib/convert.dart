@@ -6,9 +6,13 @@ library qe_model.convert;
 // Exports
 //---------------------------------------------------------------------
 
-export 'src/convert/generic_dimension_properties_convert.dart';
+export 'src/convert/doc_list_entry_convert.dart';
+export 'src/convert/nx_generic_dimension_properties_convert.dart';
+export 'src/convert/nx_generic_measure_properties_convert.dart';
 export 'src/convert/nx_info_convert.dart';
 export 'src/convert/nx_library_dimension_def_convert.dart';
+export 'src/convert/nx_library_measure_def_convert.dart';
+export 'src/convert/nx_meta_convert.dart';
 
 //---------------------------------------------------------------------
 // Library contents

@@ -6,5 +6,6 @@ Future<Null> main(List<String> args) async {
       args,
       'qe_model', // The name of the package within the pubspec
       'lib/models.json' // The path to the root JSON schema,
+      ,unmodifiable: false
       );
 }
